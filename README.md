@@ -38,4 +38,4 @@ We use the [`load_digits`](https://scikit-learn.org/stable/modules/generated/skl
 
 ---
 ![accuracy graph](image1.png)
-![Result](image2.png)
+![Result](image3.png)
